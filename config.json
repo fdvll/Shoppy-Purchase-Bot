@@ -1,0 +1,10 @@
+{
+    "productlink": "SHOPPY PRODUCT LINK (https://shoppy.gg/product/ABC1234)",
+    "amount": 1,
+    "email": "EMAIL TO BE SENT TO",
+    "cardholder": "CARDHOLDER NAME",
+    "cardnumbers": "CARD NUMBERS",
+    "expirationdate": "CARD EXPIRATION DATE",
+    "cvv": "CARD CVV",
+    "zipcode": "ZIPCODE"
+}
