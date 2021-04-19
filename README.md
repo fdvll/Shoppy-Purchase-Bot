@@ -17,9 +17,9 @@ Current features include:
 
 More features will be added as I continue to work on this project, a small list of features I plan to add are:
 
-[ ] More purchase methods
-[ ] Faster way of checking product stock
-[ ] A toggleable console-only version
+- [ ] More purchase methods
+- [ ] Faster way of checking product stock
+- [ ] A toggleable console-only version
 
 ## Usage
 
